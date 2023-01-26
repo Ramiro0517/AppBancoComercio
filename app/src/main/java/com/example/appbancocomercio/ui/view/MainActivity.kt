@@ -29,11 +29,7 @@ class MainActivity : AppCompatActivity() {
         binding= ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        postViewModel.onCreate() /*  postViewModel.postsModel.observe(this, Observer {
-            binding.edtUsuario.text= it.tittle
-           // binding.edtPassword
-            //binding.btnLogin
-        })*/
+        postViewModel.onCreate()
         binding.btnLogin.setOnClickListener {
             login()
         }
