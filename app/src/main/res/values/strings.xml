@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">AppBancoComercio</string>
+    <string name="ingresar_usuario">Ingrese su correo</string>
+    <string name="ingresar_password">Ingrese su contraseña</string>
+    <string name="registrar_usuario">Registre su correo</string>
+    <string name="registrar_password">Registre su contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrar">Registrarse</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="forgot_pass">¿Olvidaste tu contraseña?</string>
+    <string name="remember_email">Recordar correo</string>
+    <string name="login">Ingresar</string>
+    <string name="login_google">Ingresar con google</string>
+    <string name="password">Contraseña</string>
+    <string name="email">Correo electrónico</string>
+    <string name="session">Inicia sesión</string>
+    <string name="welcome">Bienvenido</string>
 </resources>
